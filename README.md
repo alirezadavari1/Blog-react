@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/165b6cd9-fdee-4e72-bd14-8929a7391267)![image](https://github.com/user-attachments/assets/5c72cdd2-0c6a-404e-8828-d75fbbf7a4e7)# Personal Portfolio Website in React
+# Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
