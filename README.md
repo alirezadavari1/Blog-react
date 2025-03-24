@@ -1,8 +1,12 @@
-# Personal Portfolio Website in React
+![image](https://github.com/user-attachments/assets/165b6cd9-fdee-4e72-bd14-8929a7391267)![image](https://github.com/user-attachments/assets/5c72cdd2-0c6a-404e-8828-d75fbbf7a4e7)# Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+
+![image](https://github.com/user-attachments/assets/7602c3c5-96ed-4c56-b505-3630ed77db75)
+
+
+
 
 Built using:
 
